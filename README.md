@@ -7,6 +7,7 @@
 | ----------- | ----------- | -------------- | ------------ |
 | 11-07-24(THURSDAY) | 9:00 AM -10:00PM | Dr.Arvind Dhingra | EXCELLENT |
 |                     |10:00 AM -      |              
-![facebook](image.jpg)
 
 
+
+![WIN_20240719_21_13_04_Pro](https://github.com/user-attachments/assets/273925c4-29dc-42e6-b6e8-6d3fb231828d)
