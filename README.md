@@ -1,5 +1,5 @@
 # ravinder-max.github.io
-**Hlo Everyone My Name is Ravinder Singh Sanghera**
+**Hlo Everyone My Name is Ravinder Singh**
 
 *In this I will Share My Experiance In Guru Nanak Dev Enginering Collage Ludhaina Abot Induction Programme* 
 
