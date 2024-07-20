@@ -6,7 +6,8 @@
 | DATE | TIME | NAME OF GUEST | EXPERIANCE  |
 | ----------- | ----------- | -------------- | ------------ |
 | 11-07-24(THURSDAY) | 9:00 AM -10:00PM | Dr.Arvind Dhingra | EXCELLENT |
-|                     |10:00 AM -      |              
+|                     |10:00 AM - 11:00 PM  |Dr.Parminder Singh | Very Good |              
+|                     |11:00AM- 12:30PM  | Dr.H.S.Rai  | OSM |
 
 
 
