@@ -42,7 +42,7 @@ _______
 
 
 
-[picture](download.jpg)
+
 
 
 
