@@ -24,7 +24,7 @@
 |18-07-24| Er.Jasvir Singh Grewal | Motivate us to join NCC |
 |19-07-24|Er.kanwardeep kalra| Teach us about corporate society |
 |19-07-24|Jaswinder singh | Teach us about different concept of Physics and Maths|
-|19-07-24|Mentor Interaction | Syudents see Their Different Departments|
+|19-07-24|Mentor Interaction | Students see Their Different Departments|
 
 
 
