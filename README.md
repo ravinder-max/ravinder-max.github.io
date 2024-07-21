@@ -1,7 +1,7 @@
 # ravinder-max.github.io
-> ##  Hlo Everyone My Name is Ravinder Singh
+##  Hlo Everyone My Name is Ravinder Singh
 
-- **In this I will Share My Experiance In Guru Nanak Dev Enginering Collage Ludhaina About Induction Programme**
+> - **In this I will Share My Experiance In Guru Nanak Dev Enginering Collage Ludhaina About Induction Programme**
 
 | Date | Name | Description |
 | ---- | ---- | ----------- |
@@ -27,7 +27,7 @@
 |19-07-24|Mentor Interaction | Students see Their Different Departments|
 
 
-- **About MS EXCEL**
+> - **About MS EXCEL**
 
 
 
